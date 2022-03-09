@@ -5,4 +5,4 @@ Reverse engineering and analysis for the bbystealer malware.
 **the malware directory contains malicious code, do not run in an unsandboxed environment**
 :warning:
 
-# $ X6 x AkąDiąz,.ϟ
+# $ X6 ϟ
